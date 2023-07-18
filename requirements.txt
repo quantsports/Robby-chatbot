@@ -2,7 +2,7 @@ langchain==0.0.180
 openai==0.27.7
 pandasai==0.2.15
 pdfplumber
-pypdf==3.9.0
+pypdf==3.12.2
 streamlit==1.24.1
 streamlit-chat==0.1.1
 tiktoken==0.4.0
